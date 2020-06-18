@@ -1,0 +1,8 @@
+com\wswright\stackoverflow\model\Post.class
+com\wswright\stackoverflow\controller\PostController.class
+com\wswright\stackoverflow\service\IPostService.class
+com\wswright\stackoverflow\repository\ReactivePostRepository.class
+com\wswright\stackoverflow\config\AppConfig.class
+com\wswright\stackoverflow\service\PostService.class
+com\wswright\stackoverflow\service\LargeXMLParser.class
+com\wswright\stackoverflow\LargeXMLFileReader.class
